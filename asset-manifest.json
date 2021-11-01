@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9444bb5d.chunk.css",
+    "main.js": "/static/js/main.2fe704ec.chunk.js",
+    "main.js.map": "/static/js/main.2fe704ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cac0f87c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cac0f87c.js.map",
+    "static/js/2.9e70be90.chunk.js": "/static/js/2.9e70be90.chunk.js",
+    "static/js/2.9e70be90.chunk.js.map": "/static/js/2.9e70be90.chunk.js.map",
+    "static/js/3.97d44cb6.chunk.js": "/static/js/3.97d44cb6.chunk.js",
+    "static/js/3.97d44cb6.chunk.js.map": "/static/js/3.97d44cb6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9444bb5d.chunk.css.map": "/static/css/main.9444bb5d.chunk.css.map",
+    "static/js/2.9e70be90.chunk.js.LICENSE.txt": "/static/js/2.9e70be90.chunk.js.LICENSE.txt",
+    "static/media/BoatBetter.3b04f304.png": "/static/media/BoatBetter.3b04f304.png",
+    "static/media/DinnerDash.8680fc90.png": "/static/media/DinnerDash.8680fc90.png",
+    "static/media/Parkpass.b5b4dbd2.png": "/static/media/Parkpass.b5b4dbd2.png",
+    "static/media/Screen Shot 2021-11-01 at 1.48.35 AM.ecdd2355.png": "/static/media/Screen Shot 2021-11-01 at 1.48.35 AM.ecdd2355.png",
+    "static/media/SimonGame.6796ce09.png": "/static/media/SimonGame.6796ce09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cac0f87c.js",
+    "static/js/2.9e70be90.chunk.js",
+    "static/css/main.9444bb5d.chunk.css",
+    "static/js/main.2fe704ec.chunk.js"
+  ]
+}
